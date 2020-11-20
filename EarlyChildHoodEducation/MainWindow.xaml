@@ -1,0 +1,13 @@
+﻿<Window x:Class="EarlyChildHoodEducation.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EarlyChildHoodEducation"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="639" Width="1107" MaxWidth="1107" MaxHeight="639">
+    <Grid Margin="0,0,103,120">
+        <Image Margin="4,10,-91,-105" Stretch="Fill" Source="/ChildHoodDevelopment.jpg"/>
+
+    </Grid>
+</Window>

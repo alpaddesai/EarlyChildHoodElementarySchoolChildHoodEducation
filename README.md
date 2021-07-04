@@ -12,4 +12,6 @@ Most of the images are custom.
 
 ![image](EmploymentLaw.jpg)
 
+![image](EthicsandExcellence.png)
+
 Advanced knowledge reference https://github.com/alpaddesai/RealEstatePortfolioIdea

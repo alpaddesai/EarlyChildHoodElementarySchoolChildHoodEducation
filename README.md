@@ -16,4 +16,6 @@ Most of the images are custom.
 
 ![image](USCopyrightCertificate.png)
 
+![image](Ethics.jpg)
+
 Advanced knowledge reference https://github.com/alpaddesai/RealEstatePortfolioIdea

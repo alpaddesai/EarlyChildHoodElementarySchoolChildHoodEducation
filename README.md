@@ -10,6 +10,8 @@ Most of the images are custom.
 
 ![image](ChildHoodDevelopment.png)
 
+![image](ElementarySchool.jpg)
+
 ![image](EmploymentLaw.jpg)
 
 ![image](EthicsandExcellence.png)

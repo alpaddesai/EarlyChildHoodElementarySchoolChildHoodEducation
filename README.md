@@ -12,6 +12,9 @@ Most of the images are custom.
 
 ![image](ElementarySchool.jpg)
 
+## Child hood education 
+![image](PracticeMakesPerfect_I.jpg)
+
 ![image](EmploymentLaw.jpg)
 
 ![image](EthicsandExcellence.png)

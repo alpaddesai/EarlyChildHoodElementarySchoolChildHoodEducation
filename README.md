@@ -12,6 +12,8 @@ Most of the images are custom.
 
 ![image](BrightHorizons.jpg)
 
+![image](ParentingNutrition.jpg)
+
 ![image](ChildHealthcare.jpg)
 
 ![image](EarlyChildHoodEducation.jpg)

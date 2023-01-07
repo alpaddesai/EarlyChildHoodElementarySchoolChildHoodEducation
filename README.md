@@ -26,6 +26,8 @@ Most of the images are custom.
 
 # ChildHood Education 
 
+![image](ElementarySchool.jpg)
+
 ![image](HealthCare.jpg)
 
 ![image](EducationalExtraCurricularActivities.jpg)

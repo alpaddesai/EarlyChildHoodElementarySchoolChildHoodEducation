@@ -20,7 +20,7 @@ Most of the images are custom.
 
 # ChildHood Education 
 
-![image](ChildsNutrition.jpg)
+![image](KidsNutrition.jpg)
 
 ![image](EducationalExtraCurricularActivities.jpg)
 

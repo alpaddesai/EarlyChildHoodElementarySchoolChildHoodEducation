@@ -20,6 +20,8 @@ Most of the images are custom.
 
 ![image](KidsNutrition.jpg)
 
+![image](Shopping.jpg)
+
 # ChildHood Education 
 
 ![image](HealthCare.jpg)

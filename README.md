@@ -18,11 +18,11 @@ Most of the images are custom.
 
 ![image](EarlyChildHoodEducation.jpg)
 
-![image](HealthCare.jpg)
+![image](KidsNutrition.jpg)
 
 # ChildHood Education 
 
-![image](KidsNutrition.jpg)
+![image](HealthCare.jpg)
 
 ![image](EducationalExtraCurricularActivities.jpg)
 

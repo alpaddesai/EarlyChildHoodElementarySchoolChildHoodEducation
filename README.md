@@ -17,9 +17,9 @@ Most of the images are custom.
 ![image](HealthCare.jpg)
 
 # ChildHood Education 
-![image](PracticeMakesPerfect_I.jpg)
-
 ![image](EducationalExtraCurricularActivities.jpg)
+
+![image](PracticeMakesPerfect_I.jpg)
 
 ![image](EmploymentLaw.jpg)
 

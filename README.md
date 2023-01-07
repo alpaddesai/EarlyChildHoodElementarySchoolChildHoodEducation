@@ -10,7 +10,7 @@ Most of the images are custom.
 
 ![image](ChildHoodDevelopment.png)
 
-![image](ElementarySchool.jpg)
+![image](HealthCare.jpg)
 
 # Child hood education 
 ![image](PracticeMakesPerfect_I.jpg)

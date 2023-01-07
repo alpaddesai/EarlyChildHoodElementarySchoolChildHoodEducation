@@ -12,7 +12,7 @@ Most of the images are custom.
 
 ![image](HealthCare.jpg)
 
-# Child hood education 
+# ChildHood Education 
 ![image](PracticeMakesPerfect_I.jpg)
 
 ![image](EmploymentLaw.jpg)

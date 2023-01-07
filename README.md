@@ -10,6 +10,8 @@ Most of the images are custom.
 
 ![image](ChildHoodDevelopment.png)
 
+![image](BrightHorizons.jpg)
+
 ![image](EarlyChildHoodEducation.jpg)
 
 ![image](HealthCare.jpg)

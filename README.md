@@ -36,9 +36,9 @@ Most of the images are custom.
 
 ![image](EthnicCuisinesI.jpg)
 
-![image](PracticeMakesPerfect_I.jpg)
-
 ![image](MultiCulturalExperienceKids.jpg)
+
+![image](PracticeMakesPerfect_I.jpg)
 
 ![image](EmploymentLaw.jpg)
 

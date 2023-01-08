@@ -24,6 +24,8 @@ Most of the images are custom.
 
 ![image](VisitingFamily.jpg)
 
+![image](BuildingRelationships.jpg)
+
 # ChildHood Education 
 
 ![image](ElementarySchool.jpg)

@@ -40,7 +40,7 @@ Most of the images are custom.
 
 ![image](PracticeMakesPerfect_I.jpg)
 
-![image](Friends.jpg)
+![image](Languages.jpg)
 
 ![image](EmploymentLaw.jpg)
 

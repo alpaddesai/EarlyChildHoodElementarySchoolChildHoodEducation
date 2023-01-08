@@ -40,6 +40,8 @@ Most of the images are custom.
 
 ![image](PracticeMakesPerfect_I.jpg)
 
+![image](Friends.jpg)
+
 ![image](EmploymentLaw.jpg)
 
 ![image](EthicsandExcellence.png)

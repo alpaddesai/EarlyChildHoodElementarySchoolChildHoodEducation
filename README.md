@@ -28,11 +28,11 @@ Most of the images are custom.
 
 # ChildHood Education 
 
-![image](EthnicCuisinesI.jpg)
-
 ![image](ElementarySchool.jpg)
 
 ![image](HealthCare.jpg)
+
+![image](EthnicCuisinesI.jpg)
 
 ![image](EducationalExtraCurricularActivities.jpg)
 

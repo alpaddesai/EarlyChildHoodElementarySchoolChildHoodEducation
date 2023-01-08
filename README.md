@@ -32,6 +32,8 @@ Most of the images are custom.
 
 ![image](HealthCare.jpg)
 
+![image](EthnicCuisines.jpg)
+
 ![image](EducationalExtraCurricularActivities.jpg)
 
 ![image](PracticeMakesPerfect_I.jpg)

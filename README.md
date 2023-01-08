@@ -32,9 +32,9 @@ Most of the images are custom.
 
 ![image](HealthCare.jpg)
 
-![image](EthnicCuisinesI.jpg)
-
 ![image](EducationalExtraCurricularActivities.jpg)
+
+![image](EthnicCuisinesI.jpg)
 
 ![image](PracticeMakesPerfect_I.jpg)
 

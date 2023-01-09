@@ -24,6 +24,8 @@ Most of the images are custom.
 
 ![image](Shopping.jpg)
 
+![image](EarlyDevelopmentSkillsforKids.jpg)
+
 ![image](DomesticTravelwithChild.jpg)
 
 ![image](BuildingRelationshipsI.jpg)

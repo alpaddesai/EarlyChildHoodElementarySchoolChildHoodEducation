@@ -24,8 +24,6 @@ Most of the images are custom.
 
 ![image](Shopping.jpg)
 
-![image](VisitingFamily.jpg)
-
 ![image](BuildingRelationshipsI.jpg)
 
 # ChildHood Education 

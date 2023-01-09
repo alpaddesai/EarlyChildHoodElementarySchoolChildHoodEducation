@@ -44,9 +44,9 @@ Most of the images are custom.
 
 ![image](MultiCulturalExperienceKids.jpg)
 
-![image](PracticeMakesPerfect_I.jpg)
-
 ![image](Languages.jpg)
+
+![image](PracticeMakesPerfect_I.jpg)
 
 ![image](EmploymentLaw.jpg)
 

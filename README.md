@@ -20,6 +20,8 @@ Most of the images are custom.
 
 ![image](KidsNutrition.jpg)
 
+![image](TownRecreationCenterSchoolEvents.jpg)
+
 ![image](Shopping.jpg)
 
 ![image](VisitingFamily.jpg)

@@ -58,7 +58,7 @@ Most of the images are custom.
 
 ![image](RealEstateLivingArrangements.jpg)
 
-![image](PracticeMakesPerfect_I.jpg)
+![image](PracticeMakesPerfect.jpg)
 
 ![image](EmploymentLaw.jpg)
 

@@ -26,6 +26,8 @@ Most of the images are custom.
 
 ![image](EarlyDevelopmentSkillsforKids.jpg)
 
+![imaged](ElementarySchoolActivities.jpg)
+
 ![image](DomesticTravelwithChild.jpg)
 
 ![image](BuildingRelationshipsI.jpg)

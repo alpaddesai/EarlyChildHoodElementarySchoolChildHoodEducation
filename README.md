@@ -40,8 +40,6 @@ Most of the images are custom.
 
 ![image](ElementarySchoolHomework.JPG)
 
-![image](ElementarySchool.jpg)
-
 ![image](HealthCare.jpg)
 
 ![image](ReadingProgram.JPG)

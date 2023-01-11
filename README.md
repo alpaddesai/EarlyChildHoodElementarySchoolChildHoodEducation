@@ -48,6 +48,8 @@ Most of the images are custom.
 
 ![image](Languages.jpg)
 
+![image](RealEstateLivingArrangements.jpg)
+
 ![image](PracticeMakesPerfect_I.jpg)
 
 ![image](EmploymentLaw.jpg)

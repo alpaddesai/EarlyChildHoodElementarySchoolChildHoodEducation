@@ -30,6 +30,10 @@ Most of the images are custom.
 
 ![image](BuildingRelationshipsI.jpg)
 
+![image](AirTravelChild.jpg)
+
+![image](FamilyIntroductions.JPG)
+
 # ChildHood Education 
 
 ![image](ElementarySchool.jpg)

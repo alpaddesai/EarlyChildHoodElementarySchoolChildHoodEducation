@@ -30,8 +30,6 @@ Most of the images are custom.
 
 ![image](BuildingRelationshipsI.jpg)
 
-![image](InternationalTravelwithChild.jpg)
-
 # ChildHood Education 
 
 ![image](ElementarySchool.jpg)

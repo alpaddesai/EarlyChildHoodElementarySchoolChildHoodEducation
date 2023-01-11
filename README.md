@@ -30,7 +30,7 @@ Most of the images are custom.
 
 ![image](BuildingRelationshipsI.jpg)
 
-![image](AirTravelChild.jpg)
+![image](AirTravelChild.JPG)
 
 ![image](FamilyIntroductions.JPG)
 

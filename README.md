@@ -22,7 +22,7 @@ Most of the images are custom.
 
 ![image](TownRecreationCenterSchoolEvents.jpg)
 
-![image](ActivitiesBoston.jpg)
+![image](ActivitiesToDoWithKids.jpg)
 
 ![image](Shopping.jpg)
 

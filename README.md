@@ -22,6 +22,8 @@ Most of the images are custom.
 
 ![image](TownRecreationCenterSchoolEvents.jpg)
 
+![image](ActivitiesBoston.jpg)
+
 ![image](Shopping.jpg)
 
 ![image](EarlyDevelopmentSkillsforKids.jpg)

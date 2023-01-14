@@ -40,13 +40,13 @@ Most of the images are custom.
 
 # ChildHood Education 
 
-![image](ElementarySchool.JPG)
-
-![image](ElementarySchoolHomework.JPG)
-
 ![image](HealthCare.jpg)
 
 ![image](ReadingProgram.JPG)
+
+![image](ElementarySchool.JPG)
+
+![image](ElementarySchoolHomework.JPG)
 
 ![image](MathProgram.JPG)
 

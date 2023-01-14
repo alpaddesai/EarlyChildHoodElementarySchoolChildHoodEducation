@@ -40,6 +40,8 @@ Most of the images are custom.
 
 # ChildHood Education 
 
+![image](CelebrationsAtSchoolWithChild.JPG)
+
 ![image](HealthCare.jpg)
 
 ![image](ReadingProgram.JPG)

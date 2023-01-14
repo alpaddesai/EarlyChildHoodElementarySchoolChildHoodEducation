@@ -42,6 +42,8 @@ Most of the images are custom.
 
 ![image](CelebrationsAtSchoolWithChild.JPG)
 
+![image](ActivitiesToDoWithChild.JPG)
+
 ![image](HealthCare.jpg)
 
 ![image](ReadingProgram.JPG)

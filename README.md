@@ -68,8 +68,6 @@ Most of the images are custom.
 
 ![image](PracticeMakesPerfect.jpg)
 
-![image](EmploymentLaw.jpg)
-
 ![image](EthicsandExcellence.png)
 
 ![image](USCopyrightCertificate.png)

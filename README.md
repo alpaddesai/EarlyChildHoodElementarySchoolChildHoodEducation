@@ -26,6 +26,8 @@ Most of the images are custom.
 
 ![image](Shopping.jpg)
 
+![image](FourSeasonsActivities.jpg)
+
 ![image](EarlyDevelopmentSkillsforKids.jpg)
 
 ![imaged](ElementarySchoolActivities.jpg)

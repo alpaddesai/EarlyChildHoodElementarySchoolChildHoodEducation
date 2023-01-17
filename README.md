@@ -1,4 +1,4 @@
-# Early ChildHood Education
+# Early ChildHood Education and Childcare
 
 The project provides an introduction to early child  hood education
 

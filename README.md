@@ -68,6 +68,8 @@ Most of the images are custom.
 
 ![image](PracticeMakesPerfect.jpg)
 
+![image](Grandparents.jpg)
+
 ![image](EthicsandExcellence.png)
 
 ![image](USCopyrightCertificate.png)

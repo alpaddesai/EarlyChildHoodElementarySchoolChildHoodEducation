@@ -68,6 +68,8 @@ Most of the images are custom.
 
 ![image](Grandparents.jpg)
 
+![image](GettingReadyMiddleSchool.jpg)
+
 ![image](EthicsandExcellence.png)
 
 ![image](USCopyrightCertificate.png)

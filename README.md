@@ -56,6 +56,8 @@ Most of the images are custom.
 
 ![image](EthnicCuisinesI.jpg)
 
+![image](Temples.jpg)
+
 ![image](EducationalExtraCurricularActivities.jpg)
 
 ![image](MultiCulturalExperienceKids.jpg)

@@ -58,7 +58,7 @@ Most of the images are custom.
 
 ![image](Temples.jpg)
 
-![image](EducationalExtraCurricularActivities.jpg)
+![image](EducationalExtraCurricularActivitiesl.jpg)
 
 ![image](MultiCulturalExperienceKids.jpg)
 
